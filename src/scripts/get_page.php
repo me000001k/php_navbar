@@ -1,20 +1,20 @@
 <?php
 
-// For example
+// For example (redirects to another pages)
 
 //if ($_GET['cat_id'] === '1'){
 //    
-//    header('Location: http://localhost/navbar_php/main.php');
+//    header('Location: http://localhost/main.php');
 //    exit();
 //    
 //} elseif ($_GET['cat_id'] === '2') {
 //    
-//    header('Location: http://localhost/navbar_php/profile.php');
+//    header('Location: http://localhost/profile.php');
 //    exit();
 //    
 //} elseif ($_GET['cat_id'] === '3'){
 //    
-//    header('Location: http://localhost/navbar_php/info.php');
+//    header('Location: http://localhost/info.php');
 //    exit();
 //    
 //} else {
